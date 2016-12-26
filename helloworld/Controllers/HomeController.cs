@@ -15,7 +15,7 @@ namespace helloworld.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hello World.";
+            ViewBag.Message = "Jenkins test setup";
 
             return View();
         }
